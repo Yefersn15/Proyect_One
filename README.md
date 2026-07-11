@@ -41,8 +41,8 @@ Este proyecto fue creado con Create React App y contiene los archivos básicos p
 ## Estructura principal del proyecto
 
 - `src/App.js`: componente principal de la aplicación.
-- `src/index.js`: punto de entrada de React.
-- `src/App.css` e `src/index.css`: estilos principales.
+- `index.js`: punto de entrada de React.
+- `src/App.css` e `index.css`: estilos principales.
 - `src/componentes/Header.js`: componente del encabezado.
 - `src/componentes/Menu.js`: componente del menú.
 - `src/componentes/Footer.js`: componente del pie de página.
