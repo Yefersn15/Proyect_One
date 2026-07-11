@@ -1,4 +1,4 @@
-﻿# Proyecto React
+﻿# Proyecto ReacOnet
 
 Este proyecto fue creado con Create React App y contiene los archivos básicos para iniciar una aplicación React.
 
@@ -6,7 +6,7 @@ Este proyecto fue creado con Create React App y contiene los archivos básicos p
 
 1. Abre una terminal en la carpeta del proyecto:
    ```bash
-   cd Proyect_React
+   cd Proyect_One
    ```
 2. Instala las dependencias del proyecto:
    ```bash
